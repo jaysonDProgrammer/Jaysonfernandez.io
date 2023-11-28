@@ -1,5 +1,5 @@
 # Jaysonfernandez.io
-###Education
+### Education
 Åbo Akademi University Aug 1, 2022 - present
 MSc in Information Technology major in Computer Engineering
 • Award: Åbo Akademi University 100% scholarship
@@ -9,13 +9,13 @@ BSc in Applied Computing
 • Awards: 2022 Ranked 1st, Dean’s Lister, 2021 Ranked 2nd, 2019 Ranked 1st, Dean’s Lister, MOE scholar
 • Courses: C, OOP in Python, Compilers, Algorithms, Data Structures, AI, ML, Cloud Computing, Distributted System, etc.
 
-###Skills
+### Skills
 Languages: Filipino, English & Basic Mandarin
 Teaching: Basic Python programming, Basic Web Development, TA in different classes
 Technology: AI (ML, DL), Web Development, UI | UX Design 
 Leadership: Project Manager
 
-###Professional Experience
+### Professional Experience
 Mana Digital (Remotely), Finland
 Part-time- Website developer Sept 2022 – present
 • Design, develop and maintain websites
@@ -34,7 +34,7 @@ Web Developer Intern - Internship Team Jul 2020 – Jul 2020
 • Led the team and updated the manual system of the company to computerized
 • Provided a web page system and make a database of all the clients information
 
-###Other Work Experience
+### Other Work Experience
 Ming Chuan University Taoyuan, Taiwan
 Teaching Assistant Sept 2020 – Jun 2022
 • Facilitate a discussion section or tutorial
@@ -49,7 +49,7 @@ Accounting Clerk Jun 2007 – Sep 2007
 • Compute monthly income of the school and employee's salary
 • Process other documents assign by supervisor
 
-###Projects
+### Projects
 Mobile Development Finland
 Moniheart – Project course class Sept 2022 – Mar 2023
 • Moniheart short for “Monitor your heart” is a system that provides an easy solution to monitor the health
@@ -66,7 +66,7 @@ Teaching Taiwan
 Ming Chuan University – Incoming Freshmen Students Aug 2020
 • Teach the incoming freshmen students basic Python programming
 
-###Seminar & Certificates
+### Seminar & Certificates
 Dash Design Hackathon 2022 Finland
 Valo Hotel and Work, Helsinki Oct 7-9, 2022
 • Participant of the hackathon under the Vaisala challenge
