@@ -1,16 +1,21 @@
 # Jaysonfernandez.io
 ### Education
 
-Åbo Akademi University Aug 1, 2022 - present
+Åbo Akademi University (_Aug 1, 2022 - present_)
 MSc in Information Technology major in Computer Engineering
 • Award: Åbo Akademi University 100% scholarship
 • Courses: Data Science, Autonomic Software & Systems, Web Technologies, etc.
 
-Ming Chuan University Sept 2018 - Jun 2022
+Ming Chuan University (_Sept 2018 - Jun 2022_)
 BSc in Applied Computing
 
 • Awards: 2022 Ranked 1st, Dean’s Lister, 2021 Ranked 2nd, 2019 Ranked 1st, Dean’s Lister, MOE scholar
 • Courses: C, OOP in Python, Compilers, Algorithms, Data Structures, AI, ML, Cloud Computing, Distributted System, etc.
+
+Trimex Colleges
+Information Technology
+• Awards: Ranked 6th, 6th Honor
+• Courses: Design Programming,    
 
 ### Skills
 Languages: Filipino, English & Basic Mandarin
