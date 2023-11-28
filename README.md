@@ -12,27 +12,31 @@
   #### BSc in Applied Computing
 
   • Awards: 2022 Ranked 1st, Dean’s Lister, 2021 Ranked 2nd, 2019 Ranked 1st, Dean’s Lister, MOE scholar
-• Courses: C, OOP in Python, Compilers, Algorithms, Data Structures, AI, ML, Cloud Computing, Distributted System, etc.
+  • Courses: C, OOP in Python, Compilers, Algorithms, Data Structures, AI, ML, Cloud Computing, Distributted System, etc.
 
 ### Trimex Colleges
+
 #### Information Technology
-• Awards: Ranked 6th, 6th Honor
-• Courses: Design Programming,    
+  • Awards: Ranked 6th, 6th Honor
+  • Courses: Design Programming,    
 
 ### Skills
+
 #### Languages: Filipino, English & Basic Mandarin
 #### Teaching: Basic Python programming, Basic Web Development, TA in different classes
 #### Technology: AI (ML, DL), Web Development, UI | UX Design 
 #### Leadership: Project Manager
 
 ### Professional Experience
-Mana Digital (Remotely), Finland
-Part-time- Website developer Sept 2022 – present
-• Design, develop and maintain websites
-Groke Technologies (Remotely), Finland
+
+#### Mana Digital (Remotely), Finland
+Part-time- Website developer _Sept 2022 – present_
+  • Design, develop and maintain websites
+
+#### Groke Technologies (Remotely), Finland
 Part-time – Annotator Dec 2022 – Oct 2023
-• Annotate vessel images
-• Check annotators annotated vessel images
+  • Annotate vessel images
+  • Check annotators annotated vessel images
 CDRI/Tano Secure Inc. Taipei, Taiwan
 Machine Learning Developer Intern – TCA program Jul 2021 – Dec 2021
 • Collaborated with the team to provide faster and cheapest framework to be use
