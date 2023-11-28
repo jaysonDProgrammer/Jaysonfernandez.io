@@ -20,10 +20,10 @@
 • Courses: Design Programming,    
 
 ### Skills
-Languages: Filipino, English & Basic Mandarin
-Teaching: Basic Python programming, Basic Web Development, TA in different classes
-Technology: AI (ML, DL), Web Development, UI | UX Design 
-Leadership: Project Manager
+#### Languages: Filipino, English & Basic Mandarin
+#### Teaching: Basic Python programming, Basic Web Development, TA in different classes
+#### Technology: AI (ML, DL), Web Development, UI | UX Design 
+#### Leadership: Project Manager
 
 ### Professional Experience
 Mana Digital (Remotely), Finland
