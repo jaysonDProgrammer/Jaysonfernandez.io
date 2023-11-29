@@ -13,7 +13,7 @@
   - **Courses:** C, OOP in Python, Compilers, Algorithms, Data Structures, AI, ML, Cloud Computing, Distributed System, etc.
 
 ### Trimex Colleges
-#### Information Technology
+#### 2 year course - Information Technology (_Jun 2005 - April 2007_)
   - **Awards:** Ranked 6th, 6th Honor
   - **Courses:** Design Programming
 
