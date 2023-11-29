@@ -31,7 +31,7 @@ Filipino, English & Basic Mandarin
 - AI (ML, DL)
 - Web Development
 - Full Stack Development
-- UI | UX Design
+- UI|UX Design
 
 ### Leadership:
 - Project Manager
