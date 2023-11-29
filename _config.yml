@@ -2,4 +2,4 @@ title: Jayson Fernandez
 logo: /assets/profile.png
 #description: 
 show_downloads: True
-theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
