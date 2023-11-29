@@ -1,4 +1,4 @@
-# IT Professional Profile
+# IT 
 
 ## Education
 
