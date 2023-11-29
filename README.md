@@ -4,7 +4,7 @@
 
 ### Åbo Akademi University (_Aug 1, 2022 - present_)
 
-  **** MSc in Information Technology major in Computer Engineering
+  #### MSc in Information Technology major in Computer Engineering
     • Award: Åbo Akademi University 100% scholarship
     • Courses: Data Science, Autonomic Software & Systems, Web Technologies, etc.
 
@@ -20,12 +20,12 @@
   • Awards: Ranked 6th, 6th Honor
   • Courses: Design Programming,    
 
-### Skills
+## Skills
 
-#### Languages: Filipino, English & Basic Mandarin
-#### Teaching: Basic Python programming, Basic Web Development, TA in different classes
-#### Technology: AI (ML, DL), Web Development, UI | UX Design 
-#### Leadership: Project Manager
+### Languages:### Filipino, English & Basic Mandarin
+### Teaching:### Basic Python programming, Basic Web Development, TA in different classes
+### Technology: ### AI (ML, DL), Web Development, UI | UX Design 
+### Leadership: ### Project Manager
 
 ### Professional Experience
 
