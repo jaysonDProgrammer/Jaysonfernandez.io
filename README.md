@@ -4,7 +4,7 @@
 
 ### Åbo Akademi University (_Aug 1, 2022 - present_)
 
-  #### MSc in Information Technology major in Computer Engineering
+  **** MSc in Information Technology major in Computer Engineering
     • Award: Åbo Akademi University 100% scholarship
     • Courses: Data Science, Autonomic Software & Systems, Web Technologies, etc.
 
