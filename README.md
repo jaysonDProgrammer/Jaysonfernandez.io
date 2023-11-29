@@ -88,28 +88,28 @@ Ming Chuan University – _Incoming Freshmen Students Aug 2020_
 
 ### Seminar & Certificates
 #### Dash Design Hackathon 2022 Finland
-Valo Hotel and Work, Helsinki Oct 7-9, 2022
+_Valo Hotel and Work, Helsinki Oct 7-9, 2022_
 • Participant of the hackathon under the Vaisala challenge
 • Proposed a ML model to predict products to sell on TikTok using Vaisala’s improved weather forecast
 
 #### International Symposium on Pursuit of Higher Education Excellence Taiwan
-Ming Chuan University Mar 11, 2022
+_Ming Chuan University Mar 11, 2022_
 • Submitted a paper and attended the publication.
 • Title: Izzilly system: A multi-vendor e-commerce online service platform
 
 #### School of Information Technology Exhibition Taiwan
-Ming Chuan University Dec 2022
+_Ming Chuan University Dec 2022_
 • Exhibitor representing International College of Applied Computing department
 
 #### Talent Circulation Alliance Academy (MOOD) Online
-TCA Organization Website Jul 2021 – Dec 2021
+_TCA Organization Website Jul 2021 – Dec 2021_
 • Artificial Intelligence: Changing the Game for Everyone, Big Data Analytics, SQL on Linux, Kubernetes,
 Build Productive Apps in the Modern Workplace with Office 365, Intelligent Graph-Adding Custom
 Intelligence to Microsoft Graph, Introduction to Azure ML integration with Azure IOT Edge, Introduction
 to Azure ML integration with Azure IOT Edge, What You Need to Know About Cyber Security
 
 #### SkillUp (MOOD) Online
-SkillUp Website Jul 17, 2021
+_SkillUp Website Jul 17, 2021_
 • Artificial Intelligence Introduction
 ICDL Profile Taiwan
 Ming Chuan University Dec 2022
