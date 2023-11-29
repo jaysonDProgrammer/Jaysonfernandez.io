@@ -12,8 +12,8 @@
   - **Awards:** 2022 Ranked 1st, Dean’s Lister, 2021 Ranked 2nd, 2019 Ranked 1st, Dean’s Lister, MOE scholar
   - **Courses:** C, OOP in Python, Compilers, Algorithms, Data Structures, AI, ML, Cloud Computing, Distributed System, etc.
 
-### Trimex Colleges
-#### 2 year course - Information Technology (_Jun 2005 - April 2007_)
+### Trimex Colleges (_Jun 2005 - April 2007_)
+#### 2 year course - Information Technology 
   - **Awards:** Ranked 6th, 6th Honor
   - **Courses:** Design Programming
 
