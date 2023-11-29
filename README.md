@@ -47,28 +47,31 @@ Filipino, English & Basic Mandarin
   - Annotate vessel images
   - Check annotators annotated vessel images
 
-### CDRI/Tano Secure Inc. Taipei, Taiwan
+### CDRI/Tano Secure Inc., Taipei, Taiwan
 #### Machine Learning Developer Intern – _TCA program Jul 2021 – Dec 2021_
 - Collaborated with the team to provide a faster and cheaper framework
 - Developed a Machine Learning model and integrated it into Tano’s system
 - Annotated leaf images for the developed ML model
 - Provided an instruction manual on how to integrate the model into the system
 
-### Bon-Vivant Health & Lifestyle Taipei, Taiwan
+### Bon-Vivant Health & Lifestyle, Taipei, Taiwan
 #### Web Developer Intern - _Internship Team Jul 2020 – Jul 2020_
 - Led the team and updated the manual system of the company to computerized
 - Provided a web page system and made a database of all the clients' information
 
-### Other Work Experience
+## Other Work Experience
 
-#### Ming Chuan University Taoyuan, Taiwan
-Teaching Assistant Sept 2020 – Jun 2022
+### Ming Chuan University, Taoyuan, Taiwan
+#### Teaching Assistant Sept 2020 – Jun 2022
 - Facilitated discussion sections or tutorials
 - Graded homework, programming assignments, exams, or projects; kept records
 - Attended the instructor's lecture and assisted students
 
-#### Scopeworks Asia Inc. Laguna, Philippines
-#### Trimex Colleges Inc. Laguna, Philippines
+### Scopeworks Asia Inc., Laguna, Philippines
+#### Quality Control Agent Feb 2009 – Mar 2014
+• Transcribe escalated voicemail to text
+
+#### Trimex Colleges Inc., Laguna, Philippines
 Accounting Clerk Jun 2007 – Sep 2007
 - Accepted payments from students and deposited them into the school’s bank accounts
 - Computed monthly income of the school and employees' salaries
